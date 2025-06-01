@@ -3,6 +3,10 @@ package com.my_main.a5_Concurrency;
 public class B1_Concurrency {
 
 	// Thread is lightweight process.
+	
+	//	synchronized
+	
+	// Multiple Thread can run inside single process.
 
 	public static void main(String[] args) {
 
